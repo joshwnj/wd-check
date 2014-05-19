@@ -1,0 +1,15 @@
+{
+  "name": "wd-check-examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "wd": "~0.2.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

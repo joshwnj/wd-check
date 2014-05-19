@@ -1,0 +1,19 @@
+{
+  "name": "wd-check",
+  "version": "0.0.0",
+  "description": "Check that a group of conditions are all met within a browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wd",
+    "selenium",
+    "automation"
+  ],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.9.0"
+  }
+}
