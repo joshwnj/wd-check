@@ -1,6 +1,6 @@
 {
   "name": "wd-check",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check that a group of conditions are all met within a browser.",
   "main": "index.js",
   "scripts": {
